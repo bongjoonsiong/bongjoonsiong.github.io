@@ -1,25 +1,25 @@
-## Portfolio
+## Jeff Bong's Portfolio
 
 ---
 
-### Category Name 1 
+### AI in Finance
 
-[Project 1 Title](/sample_page)
+[AI Stock Analyzer](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Credit Card Fradulent Detection](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Stock Price Prediction](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Machine Learning in E-Commerce 
 
-- [Project 1 Title](http://example.com/)
+- [E-Commerce Recommendation System](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
