@@ -4,7 +4,7 @@
 
 ### Generative AI
 
-[Customized Chatbot From Gemini Pro 1.5](/TFonVertexAI.ipynb)
+[Customized Chatbot From Gemini Pro 1.5](/newTFonVertexAI)
 <br>
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
