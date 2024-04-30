@@ -4,8 +4,7 @@
 
 ### Generative AI
 
-[Customized Chatbot From Gemini Pro 1.5](/Customer-Lifetime-Value-Prediction-with-BQ-and-TF-on-VAI
-/TF-on-Vertex-AI.ipynb)
+[Customized Chatbot From Gemini Pro 1.5](/TFonVertexAI.ipynb)
 <br>
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
