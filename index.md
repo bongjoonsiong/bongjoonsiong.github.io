@@ -18,7 +18,7 @@
 <img src="images/ccfraud2022.jpg?raw=true"/>
 
 ---
-[Credit Card Fradulent Detection](/pdf/sample_presentation.pdf)
+[Credit Card Fradulent Detection](https://github.com/bongjoonsiong/Feature-Store/blob/main/Feature_Store_with_Streaming_Ingestion_SDK.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
