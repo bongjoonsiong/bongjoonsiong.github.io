@@ -5,6 +5,7 @@
 ### Generative AI
 
 [Customized Chatbot From Gemini Pro 1.5](/sample_page)
+<br>
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
 ---
