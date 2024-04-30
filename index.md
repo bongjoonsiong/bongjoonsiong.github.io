@@ -5,7 +5,7 @@
 ### AI in Finance
 
 [AI Stock Analyzer](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ccfraud2022.jpg?raw=true"/>
 
 ---
 [Credit Card Fradulent Detection](/pdf/sample_presentation.pdf)
