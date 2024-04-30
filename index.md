@@ -9,7 +9,7 @@
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
 ---
-[Credit Card Fradulent Detection](/pdf/sample_presentation.pdf)
+[Credit Card Fradulent Detection](/newpage22345)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### AI in Finance
