@@ -5,7 +5,7 @@
 ### Generative AI
 
 [Customized Chatbot From Gemini Pro 1.5](/sample_page)
-<img src="images/ccfraud2022.jpg?raw=true"/>
+<img src="images/GeminiPro.jpg?raw=true"/>
 
 ---
 [Credit Card Fradulent Detection](/pdf/sample_presentation.pdf)
