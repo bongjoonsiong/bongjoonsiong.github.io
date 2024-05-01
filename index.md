@@ -4,7 +4,7 @@
 
 ### Generative AI
 
-[Customized Chatbot From Gemini Pro 1.5]((https://github.com/bongjoonsiong/Generative-AI/blob/main/GeminiChatBot.md))
+[Customized Chatbot From Gemini Pro 1.5](https://github.com/bongjoonsiong/Generative-AI/blob/main/GeminiChatBot.md)
 <br>
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
