@@ -10,10 +10,12 @@
 
 ---
 [RAG Chatbot with LangChain & Hugging Face(/newpage22345.md)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [RAG Implementation for Real Time Financial News(/newpage22345.md)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ### AI in Finance
 
