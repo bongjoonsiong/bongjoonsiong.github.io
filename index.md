@@ -9,9 +9,12 @@
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
 ---
-[Credit Card Fradulent Detection](/newpage22345.md)
+[RAG Chatbot with LangChain & Hugging Face(/newpage22345.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[RAG Implementation for Real Time Financial News(/newpage22345.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ### AI in Finance
 
 [AI Stock Analyzer](/sample_page)
@@ -26,6 +29,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Credit Card Fradulent Detection](/newpage22345.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Machine Learning in E-Commerce 
 
