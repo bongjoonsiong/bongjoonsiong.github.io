@@ -13,7 +13,7 @@
 [RAG Chatbot with LangChain & Hugging Face](https://github.com/bongjoonsiong/Generative-AI/blob/main/RAG_with_Langchain_and_HuggingFace.ipynb)
 <br>
 <br>
-<img src="images/images/RAG_with_LangChain_and_Hugging_Face.jpg?raw=true"/>
+<img src="images/RAG_with_LangChain_and_Hugging_Face.jpg?raw=true"/>
 
 ---
 [RAG Implementation for Real Time Financial News(/newpage22345.md)
