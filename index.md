@@ -6,10 +6,12 @@
 
 [Customized Chatbot leverage Gemini Pro API](https://github.com/bongjoonsiong/Generative-AI/blob/main/GeminiChatBot.md)
 <br>
+<br>
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
 ---
-[RAG Chatbot with LangChain & Hugging Face(/newpage22345.md)
+[RAG Chatbot with LangChain & Hugging Face](https://github.com/bongjoonsiong/Generative-AI/blob/main/RAG_with_Langchain_and_HuggingFace.ipynb)
+<br>
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
