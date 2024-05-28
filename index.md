@@ -19,22 +19,49 @@
 [RAG Implementation for Real Time Financial News(/newpage22345.md)
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Gemini Web Chatbot Using Jinja2 and NiceGUI](https://github.com/bongjoonsiong/Generative-AI/blob/main/GeminiChatBot.md)
+<br>
+<br>
+<img src="images/GoogleGeminiPro.jpg?raw=true"/>
+
+---
+
 ### AI in Finance
 
 [AI Stock Analyzer](/sample_page)
+<br>
+<br>
 <img src="images/ccfraud2022.jpg?raw=true"/>
 
 ---
 [Credit Card Fradulent Detection](https://github.com/bongjoonsiong/Feature-Store/blob/main/Feature_Store_with_Streaming_Ingestion_SDK.ipynb)
+<br>
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
 [Stock Price Prediction](http://example.com/)
+<br>
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Credit Card Fradulent Detection](/newpage22345.md)
+<br>
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+[RAG Chatbot with LangChain & Hugging Face]()
+<br>
+<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Machine Learning in E-Commerce 
 
