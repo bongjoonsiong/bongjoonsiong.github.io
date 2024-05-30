@@ -19,7 +19,7 @@
 [RAG Implementation for Real Time Financial News with Qdrant and HyDE](https://github.com/bongjoonsiong/Generative-AI/blob/main/Real_Time_Financial_News_RAG_Chatbot_with_Gemini_and_Qdrant.ipynb)
 <br>
 <br>
-<img src="images/RAG_with_LangChain_and_Hugging_Face.jpg?raw=true"/>
+<img src="images/ChatGPT4o.jpeg?raw=true"/>
 
 ---
 
