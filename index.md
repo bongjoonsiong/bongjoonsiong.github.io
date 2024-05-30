@@ -16,9 +16,10 @@
 <img src="images/RAG_with_LangChain_and_Hugging_Face.jpg?raw=true"/>
 
 ---
-[RAG Implementation for Real Time Financial News(/newpage22345.md)
+[RAG Implementation for Real Time Financial News with Qdrant and HyDE](https://github.com/bongjoonsiong/Generative-AI/blob/main/Real_Time_Financial_News_RAG_Chatbot_with_Gemini_and_Qdrant.ipynb)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+<img src="images/RAG_with_LangChain_and_Hugging_Face.jpg?raw=true"/>
 
 ---
 
