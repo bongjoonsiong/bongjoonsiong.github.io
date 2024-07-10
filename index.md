@@ -22,12 +22,6 @@
 <img src="images/ChatGPT4o.jpeg?raw=true"/>
 
 ---
-
-[Gemini Web Chatbot Using Jinja2 and NiceGUI](https://github.com/bongjoonsiong/Generative-AI/blob/main/GeminiChatBot.md)
-<br>
-<br>
-<img src="images/GoogleGeminiPro.jpg?raw=true"/>
-
 ---
 
 ### AI in Finance
@@ -51,26 +45,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Credit Card Fradulent Detection](/newpage22345.md)
-<br>
-<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
----
 
-[RAG Chatbot with LangChain & Hugging Face]()
-<br>
-<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Machine Learning in E-Commerce 
+### Machine Learning in E-Commerce & Retail 
 
 - [E-Commerce Recommendation System](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Movie Recommendation Leveraging Vertor Search](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
