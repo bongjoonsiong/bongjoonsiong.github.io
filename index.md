@@ -26,7 +26,7 @@
 
 ### AI/ML in Finance
 
-[Credit Card Fradulent Detection](https://github.com/bongjoonsiong/Generative-AI-and-M-in-Finance/JoonSiong_Bong_VI_CapStoneProject.ipynb)
+[Credit Card Fradulent Detection](https://github.com/bongjoonsiong/Generative-AI-and-ML-in-Finance/blob/main/JoonSiong_Bong_VI_CapStoneProject.ipynb)
 <br>
 <br>
 <img src="images/ccfraud2022.jpg?raw=true"/>
