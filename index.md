@@ -39,7 +39,7 @@
 <img src="images/StockPricePrediction01.jpg?raw=true"/>
 
 ---
-[AI Stock Analyzer](https://github.com/bongjoonsiong/Generative-AI-and-ML-in-Finance/blob/main/AI_based_stock_analyzer_using_OpenAI_LLM_and_Langchain.ipynb)
+[AI Stock Analyzer Leveraging Open Ai and LangChain](https://github.com/bongjoonsiong/Generative-AI-and-ML-in-Finance/blob/main/AI_based_stock_analyzer_using_OpenAI_LLM_and_Langchain.ipynb)
 <br>
 <br>
 <img src="images/StockAnalyzer01.jpg?raw=true"/>
