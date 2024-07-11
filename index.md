@@ -52,7 +52,7 @@
 - [Movie Recommendation Leveraging Vertor Search](http://example.com/)
 
   ---
-[Movie Recommendation Leveraging Qdrant Vertor Database](https://github.com/bongjoonsiong/Vector_Based_Movie_Recommendation_System_Using_Qdrant_DB.ipynb)
+[Movie Recommendation Leveraging Qdrant Vertor Database](https://github.com/bongjoonsiong/Machine-Learning-Models/blob/main/Vector_Based_Movie_Recommendation_System_Using_Qdrant_DB.ipynb)
 <br>
 <br>
 <img src="images/MovieRecommendation03.jpg?raw=true"/>
