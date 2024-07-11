@@ -24,15 +24,10 @@
 ---
 ---
 
-### AI in Finance
+### AI/ML in Finance
 
-[AI Stock Analyzer](/sample_page)
-<br>
-<br>
-<img src="images/ccfraud2022.jpg?raw=true"/>
-
----
-[Credit Card Fradulent Detection](https://github.com/bongjoonsiong/Feature-Store/blob/main/Feature_Store_with_Streaming_Ingestion_SDK.ipynb)
+[Credit Card Fradulent Detection](https://github.com/bongjoonsiong/Generative-AI-and-M-in-Finance
+/JoonSiong_Bong_VI_CapStoneProject.ipynb)
 <br>
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -45,7 +40,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[AI Stock Analyzer](/sample_page)
+<br>
+<br>
+<img src="images/ccfraud2022.jpg?raw=true"/>
 
+---
+---
 ### Machine Learning in E-Commerce & Retail 
 
 - [E-Commerce Recommendation System](http://example.com/)
