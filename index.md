@@ -66,4 +66,8 @@
 
 ---
 
+[House Price Prediction Leveraging ML: Linear Regression Model ](https://housepriceprediction2025.streamlit.app/)
+<br>
+<br>
+<img src="images/MovieRecommendation03.jpg?raw=true"/>
 
