@@ -14,7 +14,7 @@
 [Multi-Agent Personalized Financail Advisor Tailored for Local Banks](https://bank-financial-advisor.streamlit.app)
 <br>
 <br>
-<img src="images/GoogleGeminiPro.jpg?raw=true"/>
+<img src="images/DeepSeek-R1-Gold.jpg?raw=true"/>
 
 ---
 
