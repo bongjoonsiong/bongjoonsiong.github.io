@@ -10,6 +10,14 @@
 <img src="images/GoogleGeminiPro.jpg?raw=true"/>
 
 ---
+
+[Multi-Agent Personalized Financail Advisor Tailored for Local Banks](https://bank-financial-advisor.streamlit.app)
+<br>
+<br>
+<img src="images/GoogleGeminiPro.jpg?raw=true"/>
+
+---
+
 [RAG Chatbot with LangChain & Hugging Face](https://github.com/bongjoonsiong/Generative-AI/blob/main/RAG_with_Langchain_and_HuggingFace.ipynb)
 <br>
 <br>
