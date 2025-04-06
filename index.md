@@ -18,10 +18,10 @@
 
 ---
 
-[OpenAI Swarm & Ollama Llama3.2 Multi-Agent News Search and Processor](https://github.com/bongjoonsiong/News_Creator.git))
+[OpenAI Swarm + DuckDuckGo Search & Ollama with Localized Llama3.2 Automatic Multi-Agent News Processor](https://github.com/bongjoonsiong/News_Creator.git))
 <br>
 <br>
-<img src="images/DeepSeek-R1-Gold.jpg?raw=true"/>
+<img src="images/Auto-News-Agents.png?raw=true"/>
 
 ---
 
