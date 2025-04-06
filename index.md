@@ -11,7 +11,14 @@
 
 ---
 
-[Multi-Agent Personalized Financail Advisor Tailored for Local Banks](https://bank-financial-advisor.streamlit.app)
+[LangGraph Multi-Agent Personalized Financail Advisor Tailored for Local Banks](https://bank-financial-advisor.streamlit.app)
+<br>
+<br>
+<img src="images/DeepSeek-R1-Gold.jpg?raw=true"/>
+
+---
+
+[OpenAI Swarm & Ollama Llama3.2 Multi-Agent News Search and Processor](https://github.com/bongjoonsiong/News_Creator.git))
 <br>
 <br>
 <img src="images/DeepSeek-R1-Gold.jpg?raw=true"/>
