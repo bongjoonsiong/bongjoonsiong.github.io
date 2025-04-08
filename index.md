@@ -63,10 +63,12 @@
 ---
 ### Machine Learning in E-Commerce & Retail 
 
-- [E-Commerce Recommendation System](http://example.com/)
-- [Movie Recommendation Leveraging Vertor Search](http://example.com/)
+- [E-Commerce Recommendation System](https://bong-ecom-arima.streamlit.app)
+<br>
+<br>
+<img src="images/EcommerceArima.jpg?raw=true"/>
 
-  ---
+---
 [Movie Recommendation Leveraging Qdrant Vertor Database](https://github.com/bongjoonsiong/Machine-Learning-Models/blob/main/Vector_Based_Movie_Recommendation_System_Using_Qdrant_DB.ipynb)
 <br>
 <br>
