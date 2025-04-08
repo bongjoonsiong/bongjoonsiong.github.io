@@ -63,7 +63,7 @@
 ---
 ### Machine Learning in E-Commerce & Retail 
 
-- [E-Commerce Recommendation System](https://bong-ecom-arima.streamlit.app)
+[E-Commerce Recommendation System](https://bong-ecom-arima.streamlit.app)
 <br>
 <br>
 <img src="images/EcommerceArima.jpg?raw=true"/>
